@@ -4,11 +4,6 @@ import App from './components/App';
 
 
 
-
-
-//This is the end result you're aiming for:
-//https://pogqj.csb.app/
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <App />
